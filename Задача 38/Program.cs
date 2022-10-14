@@ -66,5 +66,5 @@ int[] SuperFinalArray = FillArrayWithRandom3Numbers(TheArrayForTransformation);
 
 PrintArray(SuperFinalArray);
 DoLine();
-Console.Write("сумма элементов, стоящих на нечётных позициях = ");
+Console.Write("разница между максимальным и минимальным элементом массива = ");
 Console.Write(DifferenceBetweenMinAndMaxElements(SuperFinalArray));
